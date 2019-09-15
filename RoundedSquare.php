@@ -1,6 +1,6 @@
 <?php
 
-class RoundedSquare implements Shape
+class RoundedSquare implements RoundedShape
 {
     public function draw()
     {
